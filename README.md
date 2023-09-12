@@ -1,3 +1,3 @@
 # UFO
 R program for UFO: An Utility-based Model Free Phase I/II Dose Optimization Design for Immunotherapy Trials.
-Currently under review
+The manuscript is currently under review in the Journal of the Royal Statistical Society: Series C.
